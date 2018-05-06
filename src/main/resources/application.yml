@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SampleSpringEntityAutowire
+  h2:
+    console:
+      enabled: true
